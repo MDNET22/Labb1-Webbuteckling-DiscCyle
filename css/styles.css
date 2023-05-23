@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #F3E9D2 !important;
+}
+
+.navbar-brand,
+.nav-link,
+.navbar-text
+.nav-link.active {
+    color: #1a936f;
+}
+
+.nav-link:hover,
+.nav-brand:hover {
+    color: #C6DABF;
+}
+
+.navbar-toggler {
+    background-color: #1a936f;
+}
+
+body {
+    background-color: #1a936f;
+}
+
+.custom-div {
+    background-color: #F3E9D2;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 5px;
+}
+
+.custom-product-card {
+    background-color: #F3E9D2;
+    
+}
+
+.custom-button {
+    background-color: #1a936f;
+    color: #F3E9D2;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+}
