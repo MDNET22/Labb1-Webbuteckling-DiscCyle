@@ -2,11 +2,14 @@
     background-color: #F3E9D2 !important;
 }
 
+.navbar,
 .navbar-brand,
 .nav-link,
-.navbar-text
+.navbar-text,
+.navbar-nav,
 .nav-link.active {
     color: #1a936f;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .nav-link:hover,
@@ -20,6 +23,7 @@
 
 body {
     background-color: #1a936f;
+    font-family: monospace;
 }
 
 .custom-div {
@@ -31,7 +35,6 @@ body {
 
 .custom-product-card {
     background-color: #F3E9D2;
-    
 }
 
 .custom-button {
@@ -41,3 +44,4 @@ body {
     padding: 10px;
     margin: 5px;
 }
+
